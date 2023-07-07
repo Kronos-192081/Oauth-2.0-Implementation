@@ -1,13 +1,12 @@
-# <div align="center">Oauth 2.0 Based Authorisation System</div>
+# <div align="center">Oauth 2.0 protocol Based Authorisation System</div>
 
 
-> Repository for End term submission for Information Retrieval course (CS60092) offered in Spring semester 2023, Department of CSE, IIT Kharagpur.
+> Repository for Oauth 2.0 protocol based authorisation system
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <!-- <img width="200" src="https://user-images.githubusercontent.com/86282911/230894496-b9402384-bf0a-4bf7-afbf-2207aa2d31be.png">
-   -->
+    <img width="200" src="https://user-images.githubusercontent.com/86282911/230894496-b9402384-bf0a-4bf7-afbf-2207aa2d31be.png">
   <p align="center">
     <i>Research for research papers</i>
     <br />
@@ -17,10 +16,6 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
     <br />
-    <br />
-    <a href="https://github.com/outer-rim/Sciatica/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/outer-rim/Sciatica/issues">Request Feature</a>
   </p>
 </div>
 
