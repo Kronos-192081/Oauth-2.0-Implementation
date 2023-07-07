@@ -11,7 +11,9 @@
     <br />
     <br />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/NodeJs-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <br />
   </p>
 </div>
