@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <p align="center">
-    <i>Oauth 2.0</i>
+    <b>Oauth 2.0</b>
     <br />
     <br />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
